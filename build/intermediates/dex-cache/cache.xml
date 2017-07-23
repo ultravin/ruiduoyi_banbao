@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\SerialPortLibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e0e83b24255bf0ed1d40088c008636aaeb91059">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_b9f1848a47b3b3ec3fb2b21a095886b983e3a1ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\libs\ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="62681b8212ca52278feafec31775fd0cb096d99a">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.3.0-jar-with-dependencies_91fd238667ae5283739e78a66ba4b3a3261308fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\35b738300320726ffbc57fe32bb7262b517cd098\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_9e804ab811afd5374ca7d3c351f31e6398ffae57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\56e1b011c980f30233b9383b99c5cb309e0bd2a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_731441d58ec1068da01db95ff660188843c1d7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.5.2\ecf534dba3a8446ce84cbb797d314763be212a68\glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\glide-3.5.2_e72cf344ef75c9182310529c6fc60419131e256b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\3f07ecc7b2cb79b95b7edf5cb43604cb7e3b1239\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_c1d53d2558c182c31b19200c1e87a37032b06b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\37670da050a576ad42fcbb14ea7eb168e42ebc70\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_df74a87f95f004f46014923cda62361ea3f54577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\3215346846b4912b2a0743ebb66fa4422221b2fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="df559ab8a9d5d44cf0a49dbb2be402637b90ba90">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_c5525e0115d0b07c97cd5c7b98ce2be4768d964a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\e8b6b7a10316950b1fd9797badf00d9bbbca7a52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_9c4c7fe4bd821386bb0520e62bb05941cc05a7e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_3c9f5880fec0a880f40ecbbebb3a60ccb1f35afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\9a72ef6721b3ed7984f5391eeb3225fc4cc38785\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_f0920a65db1f93ace16bf4e55322b4ff03619272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\4cb521d9fdfe762d5dc8c4a12d4d4124c2dbddea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_ce37859a1f8309f9a9b8612485835c86015ff72b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.0\ff93baa2e2e6ca507fc6ec731f61751dd0d865e7\MPAndroidChart-v3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ff93baa2e2e6ca507fc6ec731f61751dd0d865e7">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.0_d914997f1049bcd1695fa80564a1fb99f0980139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\c4d26f99a771176016fcdccac9eb94a3d24fdb27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_fdd69dcfaeaa2e96e172b8738a4dcec41c962cdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\de673b6e3edbf75c0a37f79c55e112372258435b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_1c7a2fc1514fbc38521dd194c2bb3f47a5af9edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\d892361fd6b64cce9ed3464f5936884a87eb696e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_5d759cf3c7f8e1e16085f265c929372b7e9d209f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\bc0341dfc187fb452759bb805ddd38b60b23b55b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_27ba6c6f6dc2398f432350dc9e3c1694ffde0ae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\45cb05379e3c9fd357c2e3c65fe775979365e092\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_b2ca03a5871a141ef27ef7851a739aaf065d650b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\libs\sqljdbc4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ecc4bc5c567954cdd1acd3c5985555c8d0355bb0">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\sqljdbc4_b6b60cfe7b3584b52b3312799a343b9c909a7d3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\Gpiolibrary\build\intermediates\bundles\default\libs\javalib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="37abbc042b56315783594bfe96eadb7522202d90">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\javalib_b91fbc687faff46f272a256a6f5135e2ab4bcaf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\Gpiolibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8351fa88884802d7df02b9bf9e893737a651a7e0">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_704714b739944907a545d52cbcf955b5ec2dd4b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\2e32d9872d720eb5144e299a99ecbff79e3aebe7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_f78f238c6382bf1de25f75283adc2f8e5fb4cd11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.android\build-cache\5840b20c16bd801dcbab7d174b3d6576ff05c7b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\WorkRoom\Android\AndroidstudioProjects\Ruiduoyi\app\build\intermediates\pre-dexed\debug\classes_e15a1a0734bdb057171e149ee6db0f8d8977ba6e.jar" />
+    </item>
+
+</items>
